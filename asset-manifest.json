@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-clock/static/css/main.abd8f334.css",
+    "main.js": "/digital-clock/static/js/main.67825ffa.js",
+    "index.html": "/digital-clock/index.html",
+    "main.abd8f334.css.map": "/digital-clock/static/css/main.abd8f334.css.map",
+    "main.67825ffa.js.map": "/digital-clock/static/js/main.67825ffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd8f334.css",
+    "static/js/main.67825ffa.js"
+  ]
+}
